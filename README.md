@@ -1,4 +1,4 @@
-# 已经发布到PyPI，https://pypi.org/manage/projects/
+# 已经发布到PyPI，https://pypi.org/project/pyxiaolu/
 
 # 导入库的方式：
 from pyxiaolu import pyxiaolu
