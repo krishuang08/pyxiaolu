@@ -1,3 +1,5 @@
+# 已经发布到PyPI，https://pypi.org/manage/projects/
+
 # 导入库的方式：
 from pyxiaolu import pyxiaolu
 
