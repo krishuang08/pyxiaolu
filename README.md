@@ -1,3 +1,6 @@
+# 导入库的方式：
+from pyxiaolu import pyxiaolu
+
 # pyxiaolu包括以下方法：
 ## login(username,password)
 username:小陆同学用户名
